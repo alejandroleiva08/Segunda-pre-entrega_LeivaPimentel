@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Alejandro",
+        "edad": "24",
+        "producto": "carro",
+        "cantidad": "1"
+    },
+    {
+        "nombre": "Omar",
+        "edad": "27",
+        "producto": "celular",
+        "cantidad": "2"
+    },
+    {
+        "nombre": "Rosa",
+        "edad": "72",
+        "producto": "gato",
+        "cantidad": "1"
+    },
+    {
+        "nombre": "Ruben",
+        "edad": "68",
+        "producto": "pastillas",
+        "cantidad": "5"
+    }
+]
